@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.Form1.resources
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\bin\Debug\CLR_EXAMPLE.exe.config
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\bin\Debug\CLR_EXAMPLE.exe
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\bin\Debug\CLR_EXAMPLE.pdb
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.exe
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_EXAMPLE\obj\Debug\CLR_EXAMPLE.pdb

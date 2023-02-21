@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\bin\Debug\CLR_TRIGGER.dacpac
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\bin\Debug\CLR_TRIGGER.dll
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\bin\Debug\CLR_TRIGGER.pdb
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\Model.xml
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\refactor.xml
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\postdeploy.sql
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\predeploy.sql
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\CLR_TRIGGER.dll
+C:\Users\Administrator\source\repos\CLR_TRIGGER\CLR_TRIGGER\obj\Debug\CLR_TRIGGER.pdb
